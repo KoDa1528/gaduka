@@ -71,7 +71,7 @@ Arrays/vector:
 tred name arrays: type{quantity element or do not specify anything for the vector};
 
 function:
-gadu name function[arguments](
+gadu name [function arguments](
 )
 
 Asynchrony:
