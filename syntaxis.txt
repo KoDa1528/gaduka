@@ -15,7 +15,7 @@ tred name variable: type variable;
 Pointers:
 tred *pointers name: hex = &name variable; /only hex/
 
-If/elif/else:
+if/elif/else:
 yo (
 
 ) yopta (
